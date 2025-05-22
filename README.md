@@ -1,5 +1,5 @@
-### Create a bot via @BotFather.  
-### Save the token.
+1. **Create a bot via @BotFather**.  
+2. **Save the token**.
 
 ### On windows (cmd):
 set TELEGRAM_BOT_TOKEN=your-token-here  
